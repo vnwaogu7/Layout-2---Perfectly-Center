@@ -31,6 +31,14 @@ a:link{
   text-decoration:none;
 }
 
+a:hover:{
+  color:#f8f8ff;
+}
+
+a:visited{
+  color:#f8f8ff;
+}
+
 i{
   font-size: 40px;
   color:#b0e0f1;
